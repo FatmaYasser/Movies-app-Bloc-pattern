@@ -1,0 +1,217 @@
+    Jeddah - جدة
+    Makkah - مكة
+    Abha - ابها
+    Jubail - الجبيل
+    Hail - حائل
+    Buraidah - بريدة
+    Khobar - الخبر
+    Yanbu - ينبع
+    Riyadh - الرياض
+    Assiyah - الاسياح
+    Baha - الباحة
+    Bijadiyah - البجادية
+    Birk - البرك
+    Batha - البطحاء
+    Abqaiq - البقيق
+    Thuqba - الثقبة
+    Thuwal - ثول
+    Al-Jsh - الجش
+    Al Jafr - الجفر
+    Harjah - الحرجة
+    Hareeq - الحريق
+    Hawea/Taif - الحوية - الطائف
+    Haweyah - الحوية - الظهران
+    Khabra - الخبراء - القصيم
+    Kharj - الخرج
+    Khafji - الخفجي
+    Al Dayer - الداير
+    Darb - الدرب
+    Al Dalemya - الدليمية
+    Dammam - الدمام
+    Al Ruqi - الرقعي
+    Rayn - الرين
+    Zulfi - الزلفي
+    Saira - السعيرة
+    Safanyah - السفانية
+    Sayl Al Kabir - السيل الكبير
+    Shoaiba - الشعيبة
+    Shefa'a - الشفاء
+    Ash Shuqaiq - الشقيق
+    Shumeisi - الشميسي
+    Sayirah - الصايرة
+    Sahna - الصحنة
+    Sarrar - الصرار
+    Taif - الطائف
+    At Tuwal - الطويل
+    Dhahran - الظهران
+    Uthmaniyah - العثمانية
+    Aqiq - العقيق
+    Awamiah - العوامية
+    Al Ayun - العيون
+    Oyaynah - العيينة
+    Qahmah - القحمة
+    Qasab - القصب
+    Qassim - القصيم
+    Qatif - القطيف
+    Kamil - الكامل
+    Madinah - المدينة
+    Muwayh - الموية
+    Nabiya - النابية
+    Nabaniya - النبانية
+    Nabhaniah - النبهانية
+    Nairiyah - النعيرية
+    Nakeea - النقيع
+    Namas - النماص
+    Nwariah - النوارية
+    Noweirieh - النويرية
+    Alhada - الهدا
+    Um Aljamajim - ام الجماجم
+    Ahad Rufaidah - احد رفيده
+    Al Hassa - الاحساء
+    Artawiah - الارطاوية
+    Atawleh - الاطاولة
+    Aflaj - الافلاج
+    Bahrat Al Moujoud - بحرة المجاهدين
+    Badaya - البدائع
+    Bukeiriah - البكيرية
+    Badar Hunain - بدر حنين
+    Jumum - الجموم
+    Jouf - الجوف
+    Bashayer - بشاير
+    Buqaiq - بقيق
+    Hadeethah - الحديثة
+    Hinakeya - الحناكية
+    Balahmar - بللحمر
+    Bani Malek  - بني مالك
+    Khurma - الخرمة
+    Khamaseen - الخماسين
+    Dere'iyeh - الدرعية
+    Daelim - الدلم
+    Dawadmi - الدوادمي
+    AlRass - الرس
+    Tabuk - تبوك
+    Rwaydah - الرويضة
+    Sulaiyl - السليل
+    Udhaliyah - العضيلية
+    Oula - العلا
+    Turbah - تربة
+    Thumair - تمير
+    Tanajib - تناجيب
+    Alghat - الغاط
+    Qurayat - القريات
+    Qunfudah - القنفذة
+    Quwei'ieh - القويعية
+    Thadek - ثادق
+    Thqbah - ثقبة
+    Qaysoomah - القيصومة
+    Laith - الليث
+    Jash - جاش
+    Bahrain Causeway - جسر البحرين
+    Ja'araneh - جعرانة
+    Jalajel - جلاجل
+    Mubaraz - المبرز
+    Majarda - المجاردة
+    Hayer - حاير
+    Harad - حرض
+    Majma - المجمعة
+    Mikhwa - المخواة
+    Muzneb - المذنب
+    Muzahmiah - المزاحمية
+    Muthaleif - المظيلف
+    Mandak - المندق
+    Hawtat Bani Tamim - حوطة بني تميم
+    Hofuf - الهفوف
+    Wajeh (Al Wajh) - الوجه&lrm;
+    Khulais - خليص
+    Umluj - املج
+    Abu Areish - أبو عريش
+    Ahad Masarha  - أحد المسارحه
+    Bareq - بارق
+    Dukhnah - دخنة
+    Bahara - بحرة
+    Bader - بدر
+    Deraab - ديراب
+    dahban  - ذهبان
+    Rabigh - رابغ
+    Ras Al Kheir - رأس الخير
+    BilJurashi - بلجرشي
+    Balasmar - بللسمر
+    Bish  - بيش
+    Rahima - رحيمة
+    Rafayaa Al Gimsh - رفايع الجمش
+    Rafha - رفحاء
+    Bisha - بيشة
+    Tarut - تاروت
+    Tatleeth - تثليث
+    Turba - تربة
+    Rowdat Sodair - روضة سدير
+    Riyadh Al Khabra - رياض الخبراء
+    Sajir - ساجر
+    Tanuma - تنومة
+    Tayma - تيماء
+    Gizan - جازان
+    Halat Ammar - حالة عمار
+    Horaimal - حريملاء
+    Hafer Al Batin - حفر الباطن
+    Salwa - سلوى
+    Haqil - حقل
+    Hotat Sudair - حوطة سدير
+    Shedgum - شدقم
+    Sharourah - شرورة
+    Shaqra - شقراء
+    Shuqayq - شقيق
+    Shaibah - شيبة
+    Khamis Mushait - خميس مشيط
+    Khaibar - خيبر
+    Sabya - صبيا
+    Safwa - صفوى
+    Salbookh - صلبوخ
+    Domat Al Jandal - دومة الجندل
+    Ras Tanura - رأس تنورة
+    Rejal Alma'a - رجال ألمع
+    Remah - رماح
+    Rania - رنية
+    Sabt El Alaya - سبت العلايا
+    Sarat Obeida - سراة عبيدة
+    Sakaka - سكاكا
+    Tarib - طريب
+    Seihat - سيهات
+    Samtah  - صامطة
+    Dhalim - ظلم
+    Duba - ضبا
+    Dhurma         - ضرمة
+    Arar - عرعر
+    Jadidah Arar - عرعر الجديدة
+    Asfan - عسفان
+    Afif - عفيف
+    Damad - ضمد
+    Tabrjal - طبرجل
+    Amaq - عمق
+    Anak - عنك
+    Turaif - طريف
+    Dhahran Al Janoob - ظهران الجنوب
+    Ojam - عوجان
+    Ain Dar - عين دار
+    Ayn Fuhayd - عين فهيد
+    Uyun - عيون
+    Uyun Al Jiwa - عيون الجواء
+    Farasan - فرسان
+    Qarah - قارة
+    Qarya Al Uliya - قرسة العليا
+    Qilwah - قيلوة
+    Muhayil - محايل
+    Mohayel Aseer - محايل عسير
+    King Khalid City - مدينة الملك خالد
+    Mrat - مرات
+    Uqlat Al Suqur - عقلة الصقور
+    Onaiza - عنيزة
+    Muneefa  - منيفة
+    Mahd Ad Dhahab - مهد الذهب
+    Najran - نجران
+    Nifi - نفي
+    Nimra - نمرة
+    Mastura - مستورة
+    Wadi El Dwaser - وادى الدواسر
+    Wadi Bin Hashbal - وادي بن هشبل
+    Wadi Fatmah - وادي فاطمة
+    Yanbu Al Baher - ينبع البحر
